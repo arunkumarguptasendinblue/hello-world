@@ -1,1 +1,3 @@
-<?php echo 4; echo 0; ?>
+
+<?php echo 4;?>
+
